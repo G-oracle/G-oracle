@@ -1,5 +1,7 @@
 # Hello there; welcome 👋🏾
 
+<img src="./images/prof.jpeg" width= 400 height= 400>
+
 My name is Akinlolu Gbemisola John,
 
 I am an experienced Technical Support Specialist with over 4 years’ experience specializing in transforming how people, businesses and things connect with each other by driving innovations through setting up, developing and maintaining computer networks.
