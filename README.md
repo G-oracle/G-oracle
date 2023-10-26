@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-<img src="./images/prof.jpeg" width= 400 height= 400>
+<img src="./images/prof.jpeg" width= 400 height= 400 border-radius=50>
 
 My name is Akinlolu Gbemisola John,
 
